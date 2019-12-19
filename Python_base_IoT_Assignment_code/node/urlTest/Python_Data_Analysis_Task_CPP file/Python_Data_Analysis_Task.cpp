@@ -22,7 +22,7 @@ int main(int argc, char* argv[])
 		sensorData = sensorData + "<reading><time>" + ctime(&now_c) +
 			"</time><temperature>" + IntToString(randomVal) + "</temperature></reading>";
 		cout << sensorData << endl;
-		Sleep(1000);
+		Sleep(60000);
 	}
 	sensorData += "</readings>";
 	//string sensorData = "<reading><time>10:00</time><temperature>30</temperature></reading>";
