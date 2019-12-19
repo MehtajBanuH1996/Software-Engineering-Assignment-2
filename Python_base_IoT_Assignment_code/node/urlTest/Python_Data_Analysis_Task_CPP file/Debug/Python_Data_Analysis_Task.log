@@ -1,4 +1,4 @@
 ﻿  Python_Data_Analysis_Task.cpp
-C:\Users\mehta\source\repos\Python_Data_Analysis_Task\Python_Data_Analysis_Task.cpp(22,1): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mehta\OneDrive\Documents\GitHub\Software-Engineering-Assignment-2\Python_base_IoT_Assignment_code\node\urlTest\Python_Data_Analysis_Task_CPP file\Python_Data_Analysis_Task.cpp(22,1): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(476): message : see declaration of 'ctime'
-  Python_Data_Analysis_Task.vcxproj -> C:\Users\mehta\source\repos\Python_Data_Analysis_Task\Debug\Python_Data_Analysis_Task.exe
+  Python_Data_Analysis_Task.vcxproj -> C:\Users\mehta\OneDrive\Documents\GitHub\Software-Engineering-Assignment-2\Python_base_IoT_Assignment_code\node\urlTest\Python_Data_Analysis_Task_CPP file\Debug\Python_Data_Analysis_Task.exe
