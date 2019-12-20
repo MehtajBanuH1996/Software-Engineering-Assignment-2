@@ -8,3 +8,12 @@
 </time><temperature>4</temperature></reading><reading><time>Thu Dec 19 01:58:03 2019
 </time><temperature>18</temperature></reading><reading><time>Thu Dec 19 01:58:04 2019
 </time><temperature>18</temperature></reading></readings>
+<readings><reading><time>Fri Dec 20 09:52:07 2019
+</time><temperature>11</temperature></reading><reading><time>Fri Dec 20 09:53:07 2019
+</time><temperature>17</temperature></reading><reading><time>Fri Dec 20 09:54:07 2019
+</time><temperature>4</temperature></reading><reading><time>Fri Dec 20 09:55:07 2019
+</time><temperature>10</temperature></reading><reading><time>Fri Dec 20 09:56:07 2019
+</time><temperature>29</temperature></reading><reading><time>Fri Dec 20 09:57:07 2019
+</time><temperature>4</temperature></reading><reading><time>Fri Dec 20 09:58:07 2019
+</time><temperature>18</temperature></reading><reading><time>Fri Dec 20 09:59:07 2019
+</time><temperature>18</temperature></reading></readings>
